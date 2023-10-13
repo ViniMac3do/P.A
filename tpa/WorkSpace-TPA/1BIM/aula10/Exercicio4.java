@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 public class Exercicio4 {
 
 	public static void main(String[] args) {
@@ -8,11 +8,11 @@ public class Exercicio4 {
 		
 			while(i<=100) {
 				f=f+i;
-			System.out.println("somatória realizada é " +f);
+			System.out.println("somatÃ³ria realizada Ã© " +f);
 			i++;
 		}
 		
-		in.close();
+	
 	}
 
 }
